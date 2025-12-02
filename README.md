@@ -24,7 +24,7 @@ Minhas principais ferramentas e linguagens de programação:
 
 | Status | Área de Foco |
 | :--- | :--- |
-| **Explorando** | Buscando conhecimento em **Node.js**. |
+| **Explorando** | Buscando conhecimento em **C#**. |
 | **Aprendendo** | Implementação e desenvolvimento com **ASP.NET Core** e **Blazor**. |
 
 ---
@@ -39,16 +39,3 @@ Você pode me encontrar nas seguintes plataformas. Sinta-se à vontade para se c
 | **Instagram** | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hn_pedrosa) |
 
 ---
-
-### 📈 Estatísticas do Meu Perfil
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=Hpedrosa-M&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hpedrosa-M&layout=compact&langs_count=6&theme=nord" alt="Top Linguagens"/>
-</a>
-
-</div>
