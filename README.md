@@ -4,7 +4,7 @@
   
 </div>
 
-Atuo na área de **Suporte na Comtele** e sou um aspirante a Programador. Minha jornada é marcada pela busca incessante por aprimoramento e evolução contínua.
+Técnico em Informatica Formado No IFSP Araraquara. Minha jornada é marcada pela busca incessante por aprimoramento e evolução contínua.
 
 ---
 
